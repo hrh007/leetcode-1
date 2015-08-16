@@ -1,0 +1,1654 @@
+1    104
+aaaabaaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aaabaaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    103
+aaabaaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aabaaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    102
+aabaaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+abaaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    101
+abaaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+baaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    100
+baaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    99
+aaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    98
+aaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    97
+aabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+abbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    96
+abbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    95
+bbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    94
+bbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    93
+bbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+baabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    92
+baabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    91
+aabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+abbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    90
+abbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    89
+bbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    88
+bbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+baabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    87
+baabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    86
+aabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+abbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    85
+abbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    84
+bbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+baababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    83
+baababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    82
+aababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+ababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    81
+ababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+babbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    80
+babbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+abbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    79
+abbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    78
+bbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+babbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    77
+babbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+abbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    76
+abbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    75
+bbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+baaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    74
+baaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    73
+aaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    72
+aaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    71
+aababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+ababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    70
+ababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+babaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    69
+babaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+abaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    68
+abaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+baaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    67
+baaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    66
+aaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    65
+aabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+abbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    64
+abbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    63
+bbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    62
+bbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    61
+bbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    60
+bbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    59
+bbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+baabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    58
+baabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    57
+aabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+abbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    56
+abbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    55
+bbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    54
+bbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+babababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    53
+babababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+abababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    52
+abababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    51
+bababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+ababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    50
+ababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+babbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    49
+babbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+abbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    48
+abbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+bbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    47
+bbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+baaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    46
+baaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    45
+aaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+aabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    44
+aabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+abaabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    43
+abaabaaaaaabbaabbbbaababbababaabbbaababbbba
+baabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    42
+baabaaaaaabbaabbbbaababbababaabbbaababbbba
+aabaaaaaabbaabbbbaababbababaabbbaababbbba
+1    41
+aabaaaaaabbaabbbbaababbababaabbbaababbbba
+abaaaaaabbaabbbbaababbababaabbbaababbbba
+1    40
+abaaaaaabbaabbbbaababbababaabbbaababbbba
+baaaaaabbaabbbbaababbababaabbbaababbbba
+1    39
+baaaaaabbaabbbbaababbababaabbbaababbbba
+aaaaaabbaabbbbaababbababaabbbaababbbba
+1    38
+aaaaaabbaabbbbaababbababaabbbaababbbba
+aaaaabbaabbbbaababbababaabbbaababbbba
+1    37
+aaaaabbaabbbbaababbababaabbbaababbbba
+aaaabbaabbbbaababbababaabbbaababbbba
+1    36
+aaaabbaabbbbaababbababaabbbaababbbba
+aaabbaabbbbaababbababaabbbaababbbba
+1    35
+aaabbaabbbbaababbababaabbbaababbbba
+aabbaabbbbaababbababaabbbaababbbba
+1    34
+aabbaabbbbaababbababaabbbaababbbba
+abbaabbbbaababbababaabbbaababbbba
+1    33
+abbaabbbbaababbababaabbbaababbbba
+bbaabbbbaababbababaabbbaababbbba
+1    32
+bbaabbbbaababbababaabbbaababbbba
+baabbbbaababbababaabbbaababbbba
+1    31
+baabbbbaababbababaabbbaababbbba
+aabbbbaababbababaabbbaababbbba
+1    30
+aabbbbaababbababaabbbaababbbba
+abbbbaababbababaabbbaababbbba
+1    29
+abbbbaababbababaabbbaababbbba
+bbbbaababbababaabbbaababbbba
+1    28
+bbbbaababbababaabbbaababbbba
+bbbaababbababaabbbaababbbba
+1    27
+bbbaababbababaabbbaababbbba
+bbaababbababaabbbaababbbba
+1    26
+bbaababbababaabbbaababbbba
+baababbababaabbbaababbbba
+1    25
+baababbababaabbbaababbbba
+aababbababaabbbaababbbba
+1    24
+aababbababaabbbaababbbba
+ababbababaabbbaababbbba
+1    23
+ababbababaabbbaababbbba
+babbababaabbbaababbbba
+1    22
+babbababaabbbaababbbba
+abbababaabbbaababbbba
+1    21
+abbababaabbbaababbbba
+bbababaabbbaababbbba
+1    20
+bbababaabbbaababbbba
+bababaabbbaababbbba
+1    19
+bababaabbbaababbbba
+ababaabbbaababbbba
+1    18
+ababaabbbaababbbba
+babaabbbaababbbba
+1    17
+babaabbbaababbbba
+abaabbbaababbbba
+1    16
+abaabbbaababbbba
+baabbbaababbbba
+1    15
+baabbbaababbbba
+aabbbaababbbba
+1    14
+aabbbaababbbba
+abbbaababbbba
+1    13
+abbbaababbbba
+bbbaababbbba
+1    12
+bbbaababbbba
+bbaababbbba
+1    11
+bbaababbbba
+baababbbba
+1    10
+baababbbba
+aababbbba
+1    9
+aababbbba
+ababbbba
+1    8
+ababbbba
+babbbba
+1    7
+babbbba
+abbbba
+1    6
+abbbba
+bbbba
+1    5
+bbbba
+bbba
+1    4
+bbba
+bba
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+2    2
+ba
+
+1    1
+a
+
+2    2
+ba
+
+1    1
+a
+
+1    1
+a
+
+2    2
+ba
+
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+2    2
+ba
+
+1    1
+a
+
+2    2
+ba
+
+1    1
+a
+
+1    1
+a
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+2    2
+ba
+
+1    1
+a
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    3
+bba
+a
+1    1
+a
+
+3    3
+bba
+
+2    3
+bba
+a
+1    1
+a
+
+2    2
+ba
+
+2    3
+bba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+3    3
+bba
+
+2    3
+bba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+3    3
+bba
+
+1    1
+a
+
+2    3
+bba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+2    2
+ba
+
+1    1
+a
+
+3    3
+bba
+
+1    1
+a
+
+1    1
+a
+
+1    4
+bbba
+bba
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+2    2
+ba
+
+1    1
+a
+
+2    2
+ba
+
+1    1
+a
+
+1    1
+a
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+2    2
+ba
+
+1    1
+a
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    3
+bba
+a
+1    1
+a
+
+3    3
+bba
+
+2    3
+bba
+a
+1    1
+a
+
+2    2
+ba
+
+2    3
+bba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+3    3
+bba
+
+2    3
+bba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+3    3
+bba
+
+1    1
+a
+
+1    4
+bbba
+bba
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+2    2
+ba
+
+1    1
+a
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    3
+bba
+a
+1    1
+a
+
+3    3
+bba
+
+2    3
+bba
+a
+1    1
+a
+
+2    2
+ba
+
+2    3
+bba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+3    3
+bba
+
+1    4
+bbba
+bba
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    3
+bba
+a
+1    1
+a
+
+3    3
+bba
+
+2    3
+bba
+a
+1    1
+a
+
+2    2
+ba
+
+1    4
+bbba
+bba
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    3
+bba
+a
+1    1
+a
+
+3    3
+bba
+
+2    4
+bbba
+ba
+1    2
+ba
+a
+1    1
+a
+
+3    4
+bbba
+a
+1    1
+a
+
+2    4
+bbba
+ba
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    3
+bba
+a
+1    1
+a
+
+4    4
+bbba
+
+2    4
+bbba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    3
+bba
+a
+1    1
+a
+
+3    3
+bba
+
+3    4
+bbba
+a
+1    1
+a
+
+2    2
+ba
+
+2    4
+bbba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+2    2
+ba
+
+1    1
+a
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    3
+bba
+a
+1    1
+a
+
+3    3
+bba
+
+2    3
+bba
+a
+1    1
+a
+
+2    2
+ba
+
+3    4
+bbba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+4    4
+bbba
+
+2    4
+bbba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+2    2
+ba
+
+1    1
+a
+
+2    2
+ba
+
+1    1
+a
+
+1    1
+a
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+2    2
+ba
+
+1    1
+a
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    3
+bba
+a
+1    1
+a
+
+3    3
+bba
+
+2    3
+bba
+a
+1    1
+a
+
+2    2
+ba
+
+2    3
+bba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+3    3
+bba
+
+3    4
+bbba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+4    4
+bbba
+
+1    1
+a
+
+1    5
+bbbba
+bbba
+1    4
+bbba
+bba
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+2    2
+ba
+
+1    1
+a
+
+2    2
+ba
+
+1    1
+a
+
+1    1
+a
+
+1    3
+bba
+ba
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+1    1
+a
+
+1    2
+ba
+a
+1    1
+a
+
+2    2
+ba
+
+2    2
+ba
+
+2    2
+ba
+
+1    1
+a
+
+1

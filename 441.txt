@@ -1,0 +1,3007 @@
+104   54
+aaaabaaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+103   54
+aaabaaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+102   54
+aabaaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+101   54
+abaaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+100   54
+baaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+99   54
+aaaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+98   54
+aaabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+97   54
+aabbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+96   54
+abbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+95   54
+bbbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+94   54
+bbbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+93   54
+bbaabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+92   54
+baabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+91   54
+aabbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+90   54
+abbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+89   54
+bbbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+88   54
+bbaabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+87   54
+baabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+86   54
+aabbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+85   54
+abbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+84   54
+bbaababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+83   54
+baababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+82   54
+aababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+81   54
+ababbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+80   54
+babbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+79   54
+abbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+78   54
+bbabbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+77   54
+babbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+76   54
+abbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+75   54
+bbaaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+74   54
+baaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+73   54
+aaaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+72   54
+aaababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+71   54
+aababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+70   54
+ababaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+69   54
+babaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+68   54
+abaaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+67   54
+baaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+66   54
+aaabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+65   54
+aabbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+64   54
+abbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+63   54
+bbbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+62   54
+bbbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+61   54
+bbbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+60   54
+bbbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+59   54
+bbaabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+58   54
+baabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+57   54
+aabbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+56   54
+abbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+55   54
+bbbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+54   54
+bbabababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+53   54
+babababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+52   54
+abababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+51   54
+bababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+50   54
+ababbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+49   54
+babbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+48   54
+abbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+47   54
+bbaaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+46   54
+baaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+45   54
+aaabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+44   54
+aabaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+43   54
+abaabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+42   54
+baabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+41   54
+aabaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+40   54
+abaaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+39   54
+baaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+38   54
+aaaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+37   54
+aaaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+36   54
+aaaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+35   54
+aaabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+34   54
+aabbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+33   54
+abbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+32   54
+bbaabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+31   54
+baabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+30   54
+aabbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+29   54
+abbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+28   54
+bbbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+27   54
+bbbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+26   54
+bbaababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+25   54
+baababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+24   54
+aababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+23   54
+ababbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+22   54
+babbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+21   54
+abbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+20   54
+bbababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+19   54
+bababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+18   54
+ababaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+17   54
+babaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+16   54
+abaabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+15   54
+baabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+14   54
+aabbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+13   54
+abbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+12   54
+bbbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+11   54
+bbaababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+10   54
+baababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+9   54
+aababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+8   54
+ababbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+7   54
+babbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+6   54
+abbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+5   54
+bbbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   54
+bbba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   54
+bba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   54
+ba
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   54
+a
+*****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   53
+ba
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   53
+a
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   52
+
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   53
+
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   53
+bba
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   53
+ba
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   53
+a
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   52
+
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   52
+bba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   51
+bba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   53
+a
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   52
+
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   53
+bbba
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   53
+bba
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   53
+ba
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   53
+a
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   52
+
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   52
+bba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   51
+bba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   52
+bbba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   52
+bba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   51
+bba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   51
+bbba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   51
+bba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   50
+bbba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   49
+bbba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   48
+ba
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   47
+bba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   51
+bba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   53
+ba
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   53
+a
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   52
+
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   52
+bba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   51
+bba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+5   53
+bbbba
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   53
+bbba
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   53
+bba
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   53
+ba
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   53
+a
+****b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   52
+
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   52
+bba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   51
+bba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   52
+bbba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   52
+bba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   51
+bba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   51
+bbba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   51
+bba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   50
+bbba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   49
+bbba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   48
+ba
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   47
+bba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   51
+bba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+5   52
+bbbba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   52
+bbba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   52
+bba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   52
+ba
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   52
+a
+***b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   51
+
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   51
+bba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   51
+bbba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   51
+bba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   50
+bbba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   49
+bbba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   48
+ba
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   47
+bba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+5   51
+bbbba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   51
+bbba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   51
+bba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   51
+ba
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   51
+a
+**b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   50
+
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   49
+a
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   50
+bbba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   49
+bbba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   48
+ba
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   47
+bba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+5   50
+bbbba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   50
+bbba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   50
+bba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   50
+ba
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   50
+a
+*b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   49
+ba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   49
+bba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+0   48
+
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   47
+a
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+4   49
+bbba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   48
+ba
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   47
+bba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1   48
+a
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   47
+ba
+aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+5   49
+bbbba
+b*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+3   48
+bba
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+2   48
+ba
+*aba***babaa*bbaba***a*aaba*b*aa**a*b**ba***a*a*
+1
